@@ -38,16 +38,7 @@
     "robotGitFile": "humanoid.xml",
     "robotGit": "https://gist.github.com/a991ca954460c1ba9860.git"
   },
-  "studio-open-git": {
-    "https://gist.github.com/20a257b104eba5069293f4f7d9cc7456.git:basicKinematicsCad.groovy": [
-      "https://gist.github.com/20a257b104eba5069293f4f7d9cc7456.git",
-      "basicKinematicsCad.groovy"
-    ],
-    "https://gist.github.com/23b283a99354ad45eeee4b46d0e9aec2.git:BuildBody.groovy": [
-      "https://gist.github.com/23b283a99354ad45eeee4b46d0e9aec2.git",
-      "BuildBody.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
