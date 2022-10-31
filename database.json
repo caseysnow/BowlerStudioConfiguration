@@ -12,6 +12,10 @@
       "https://github.com/madhephaestus/HowToBuildABowlerRobot.git",
       "1667178180881"
     ],
+    "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git": [
+      "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git",
+      "1667180572986"
+    ],
     "https://gist.github.com/f68a68d539234035e328a94a54faff63.git": [
       "https://gist.github.com/f68a68d539234035e328a94a54faff63.git",
       "1666977285690"
@@ -38,7 +42,12 @@
     "robotGitFile": "humanoid.xml",
     "robotGit": "https://gist.github.com/a991ca954460c1ba9860.git"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git:WalkTest.groovy": [
+      "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git",
+      "WalkTest.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
