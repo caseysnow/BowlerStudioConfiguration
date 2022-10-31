@@ -19,6 +19,10 @@
     "https://gist.github.com/20a257b104eba5069293f4f7d9cc7456.git": [
       "https://gist.github.com/20a257b104eba5069293f4f7d9cc7456.git",
       "1667177979432"
+    ],
+    "https://gist.github.com/23b283a99354ad45eeee4b46d0e9aec2.git": [
+      "https://gist.github.com/23b283a99354ad45eeee4b46d0e9aec2.git",
+      "1667178256343"
     ]
   },
   "studio-open-web": {},
@@ -39,9 +43,9 @@
       "https://gist.github.com/20a257b104eba5069293f4f7d9cc7456.git",
       "basicKinematicsCad.groovy"
     ],
-    "https://github.com/madhephaestus/HowToBuildABowlerRobot.git:PlaceParts.groovy": [
-      "https://github.com/madhephaestus/HowToBuildABowlerRobot.git",
-      "PlaceParts.groovy"
+    "https://gist.github.com/23b283a99354ad45eeee4b46d0e9aec2.git:BuildBody.groovy": [
+      "https://gist.github.com/23b283a99354ad45eeee4b46d0e9aec2.git",
+      "BuildBody.groovy"
     ]
   },
   "BowlerStudioConfigs": {
