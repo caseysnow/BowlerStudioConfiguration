@@ -8,6 +8,10 @@
       "KoalbyMQP22-23/Arduino-Code",
       "1666977928585"
     ],
+    "https://github.com/madhephaestus/carl-the-hexapod.git": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "1667182080097"
+    ],
     "https://github.com/madhephaestus/HowToBuildABowlerRobot.git": [
       "https://github.com/madhephaestus/HowToBuildABowlerRobot.git",
       "1667178180881"
@@ -42,7 +46,20 @@
     "robotGitFile": "humanoid.xml",
     "robotGit": "https://gist.github.com/a991ca954460c1ba9860.git"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git:LinkedCadEngine.groovy": [
+      "https://gist.github.com/4ef911736d351f44aa1fa178d50c897c.git",
+      "LinkedCadEngine.groovy"
+    ],
+    "https://github.com/madhephaestus/carl-the-hexapod.git:ThreeDPrintCad.groovy": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "ThreeDPrintCad.groovy"
+    ],
+    "https://github.com/madhephaestus/carl-the-hexapod.git:servoAttachment.groovy": [
+      "https://github.com/madhephaestus/carl-the-hexapod.git",
+      "servoAttachment.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
