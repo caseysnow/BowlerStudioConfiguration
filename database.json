@@ -42,12 +42,7 @@
     "robotGitFile": "humanoid.xml",
     "robotGit": "https://gist.github.com/a991ca954460c1ba9860.git"
   },
-  "studio-open-git": {
-    "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git:WalkTest.groovy": [
-      "https://gist.github.com/b1bc6c6cb6058ec81dbc8ede0e851299.git",
-      "WalkTest.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
